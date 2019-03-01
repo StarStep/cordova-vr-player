@@ -8,7 +8,7 @@
     <license>MIT</license>
     <keywords></keywords>
     
-    <dependency id="cordova-plugin-cocoapod-support" url="https://github.com/blakgeek/cordova-plugin-cocoapods-support" />
+    <dependency id="cordova-plugin-cocoapod-support" url="https://github.com/StarStep/cordova-plugin-cocoapods-support" />
 
     <!-- android -->
     <platform name="android">
